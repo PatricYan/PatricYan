@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 
 ## About Me
 :technologist: Hi! I'm Pengfei Yan!
+- I’m currently learning in ML, DL, NLP. For example [dataset-artifacts](https://github.com/PatricYan/fp-dataset-artifacts) and SuperTuxKart ice-hockey player.
+- familiar with big-data ecosystem, Data-Development-Platform
+- developer of open-source blockchain [Seele](https://github.com/seeleteam/go-seele)
+- contributor to open source project, such as [Unify-AI IVY](https://github.com/unifyai/ivy), 
 
 📫 How to reach me: yanllearnn@gmail.com
 
